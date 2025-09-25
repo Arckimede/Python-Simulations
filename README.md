@@ -28,9 +28,20 @@ This project simulates the motion of molecules in a 2D box using Matplotlib and 
 
 This is a 3D black hole simulation using VPython, modeling an accretion disk with particles orbiting a black hole. Particles are drawn toward the black hole based on gravitational physics and disappear when they cross the event horizon.
 
-🐦 Boids Flocking Simulation
+🐦Boids Flocking Simulation
 
 This is a real-time flocking simulation implemented in Python using Pygame. It models the behavior of a group of autonomous agents (boids) that move according to three simple rules:
 -Separation: avoid crowding nearby boids.
 -Alignment: match the velocity of neighboring boids.
 -Cohesion: steer toward the average position of nearby boids.
+
+🌍N-Body Planetary Simulation
+
+This project is a 2D gravitational simulation built in Python using Pygame. It models the Sun and several planets orbiting under Newtonian gravity. Planets are influenced by the Sun’s mass, initial velocities and the gravitational constant, producing realistic orbital paths. Some features:
+🪐 Pre-loaded planets (Earth, Jupiter, Saturn) orbiting the sun
+🆕 Add a planet interactively by clicking on the game
+📈 Energy display (Kinetic, Potential, Total) updated in real-time
+⭐ Starfield background for a space-like aesthetic
+📐 Grid overlay for spatial reference
+🎨 Popups showing planet positions when hovering near them
+▶️ Restart / Pause control using UI buttons.
