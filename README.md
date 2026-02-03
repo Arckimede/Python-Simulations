@@ -1,11 +1,10 @@
 # Python-Simulations
 
-This repository contains a collection of interactive Python simulations. Each project demonstrates computational modeling, visualization, and object-oriented programming in Python. The simulations 
-included here explore a variety of concepts, from gravitational dynamics to predator-prey ecosystems. 
+This repository contains a collection of interactive Python simulations. Each project demonstrates computational modeling, visualization and object-oriented programming in Python. The simulations  included here explore a variety of concepts, from gravitational dynamics to predator-prey ecosystems. 
 
 🐺Wolves and Rabbits Simulation
 
-This project is an ecosystem simulation built in Python using Pygame. It models interactions between wolves, rabbits, and grass in a 2D environment. Wolves hunt rabbits, rabbits eat grass and both species reproduce and die based on their energy levels. The simulation shows how populations change dynamically over time depending on food availability, reproduction and survival.
+This project is an ecosystem simulation built in Python using Pygame. It models interactions between wolves, rabbits and grass in a 2D environment. Wolves hunt rabbits, rabbits eat grass and both species reproduce and die based on their energy levels. The simulation shows how populations change dynamically over time depending on food availability, reproduction and survival.
 
 🦠Virus Spread Simulation
 
@@ -21,7 +20,7 @@ This project is a 3D orbital mechanics simulation. It models Saturn, a nearby mo
 
 🧪Molecular Dynamics Simulation
 
-This project simulates the motion of molecules in a 2D box using Matplotlib and NumPy. Molecules move randomly, collide with each other and the walls and display velocity vectors and neighbor connections.
+This project simulates the motion of molecules in a 2D box using Matplotlib and NumPy. Molecules move randomly, collide with each other and the walls, and display velocity vectors and neighbor connections.
 
 🌌Black Hole Accretion Simulation
 
@@ -55,7 +54,7 @@ The project features:
 
 🚀 Orbital Transfer Simulator (Hohmann Transfer)
 
-This project is a 2D orbital mechanics simulation built in Python using NumPy and Matplotlib. It models a spacecraft performing a Hohmann transfer between two circular Earth orbits using impulse-based velocity burns. The simulation numerically integrates the full two-body gravitational equations of motion using a fourth-order Runge–Kutta (RK4) method. Instead of drawing idealized analytic orbits, the spacecraft’s trajectory emerges naturally from Newtonian gravity after velocity impulses are applied at the correct orbital positions.
+This project is a 2D orbital mechanics simulation built in Python using NumPy and Matplotlib. It models a spacecraft performing a Hohmann transfer between two circular Earth orbits using impulse-based velocity burns. The simulation numerically integrates the full two-body gravitational equations of motion using a fourth-order Runge–Kutta (RK4) method. 
 
 The project features:
 
