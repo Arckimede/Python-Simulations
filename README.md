@@ -33,3 +33,14 @@ This is a real-time flocking simulation implemented in Python using Pygame. It m
 -Separation: avoid crowding nearby boids.
 -Alignment: match the velocity of neighboring boids.
 -Cohesion: steer toward the average position of nearby boids.
+
+🌀Double Pendulum Chaos Simulation
+
+This project is a physics-based simulation of a double pendulum system implemented in Python using NumPy and Matplotlib. It numerically solves the coupled nonlinear differential equations governing the motion of two connected pendulums using a fourth-order Runge–Kutta (RK4) integrator. The simulation demonstrates chaotic dynamics: even tiny changes in initial conditions lead to drastically different trajectories over time. In addition to real-time animation, the project includes energy analysis to observe numerical stability and integration accuracy.
+
+The project features:
+-Numerical integration using RK4
+-Full nonlinear equations of motion
+-Real-time 2D animation
+-Total energy computation and drift analysis
+-Visualization of chaotic behavior
