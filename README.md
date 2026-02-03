@@ -30,8 +30,11 @@ This is a 3D black hole simulation using VPython, modeling an accretion disk wit
 🐦Boids Flocking Simulation
 
 This is a real-time flocking simulation implemented in Python using Pygame. It models the behavior of a group of autonomous agents (boids) that move according to three simple rules:
+
 -Separation: avoid crowding nearby boids.
+
 -Alignment: match the velocity of neighboring boids.
+
 -Cohesion: steer toward the average position of nearby boids.
 
 🌀Double Pendulum Chaos Simulation
