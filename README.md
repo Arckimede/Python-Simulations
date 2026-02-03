@@ -5,7 +5,7 @@ included here explore a variety of concepts, from gravitational dynamics to pred
 
 🐺Wolves and Rabbits Simulation
 
-This project is an ecosystem simulation built in Python using Pygame. It models interactions between wolves, rabbits, and grass in a 2D environment. Wolves hunt 🐇, rabbits eat 🌱 and both species reproduce and die based on their energy levels. The simulation shows how populations change dynamically over time depending on food availability, reproduction and survival.
+This project is an ecosystem simulation built in Python using Pygame. It models interactions between wolves, rabbits, and grass in a 2D environment. Wolves hunt rabbits, rabbits eat grass and both species reproduce and die based on their energy levels. The simulation shows how populations change dynamically over time depending on food availability, reproduction and survival.
 
 🦠Virus Spread Simulation
 
