@@ -49,3 +49,21 @@ The project features:
 4. Total energy computation and drift analysis
 
 5. Visualization of chaotic behavior
+
+🚀 Orbital Transfer Simulator (Hohmann Transfer)
+
+This project is a 2D orbital mechanics simulation built in Python using NumPy and Matplotlib. It models a spacecraft performing a Hohmann transfer between two circular Earth orbits using impulse-based velocity burns. The simulation numerically integrates the full two-body gravitational equations of motion using a fourth-order Runge–Kutta (RK4) method. Instead of drawing idealized analytic orbits, the spacecraft’s trajectory emerges naturally from Newtonian gravity after velocity impulses are applied at the correct orbital positions.
+
+The project features:
+
+1. Full Newtonian two-body gravitational model
+
+2. RK4 numerical integration
+
+3. Impulse-based Δv maneuvers
+
+4. Automatic apoapsis detection for second burn
+
+5. Real-time trajectory visualization
+
+6. Analytical Δv calculation and comparison
