@@ -40,7 +40,11 @@ This project is a physics-based simulation of a double pendulum system implement
 
 The project features:
 -Numerical integration using RK4
+
 -Full nonlinear equations of motion
+
 -Real-time 2D animation
+
 -Total energy computation and drift analysis
+
 -Visualization of chaotic behavior
