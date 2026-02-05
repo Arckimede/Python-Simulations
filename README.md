@@ -70,3 +70,13 @@ The project features:
 5. Real-time trajectory visualization
 
 6. Analytical Δv calculation and comparison
+
+⚖️ Simple Pendulum Swinging 
+
+The project simulates a pendulum swinging using just a line and a circle. The physics behind the pendulum swinging back and forth revolves around these three steps:
+
+* Calculate angular acceleration: α=-g/L sin⁡(θ)
+
+* Update angular velocity: ω=ω+αdt
+
+* Update angle: θ=θ+ωdt
